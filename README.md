@@ -10,7 +10,7 @@ This hello-world app has 2 endpoints:
 This application is a Python app. It runs smoothly in Python 3.5 and Python 2.7.
 To run it, you will need to install its dependencies first:
 ```
-pip install -r requirements
+pip install -r ./requirements.txt
 ```
 Then you will be able to launch it:
 ```
